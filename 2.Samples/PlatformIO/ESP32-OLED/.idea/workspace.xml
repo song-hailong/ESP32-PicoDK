@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="ESP32-OLED" targetName="Debug" />
+      <config projectName="ESP32-OLED" targetName="Z_DUMMY_TARGET" />
+      <config projectName="ESP32-OLED" targetName="Production" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="pico32" ENABLED="true" CONFIG_NAME="pico32" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbb50a65-d3ec-475f-8880-ed7d82d55045" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../1.Hardware/ESP32-PicoDK/ESP32-PicoDK.PrjPCB" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.Hardware/ESP32-PicoDK/ESP32-PicoDK.PrjPCB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/ESP32-U8G2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/libraries/ROS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/libraries/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/ros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/serialmonitor_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/IMU_Zero/IMU_Zero.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/IMU_Zero/IMU_Zero.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6/MPU6050_DMP6.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6/MPU6050_DMP6.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6/Processing/MPUTeapot/MPUTeapot.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6/Processing/MPUTeapot/MPUTeapot.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6_ESPWiFi/MPU6050_DMP6_ESPWiFi.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6_ESPWiFi/MPU6050_DMP6_ESPWiFi.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6_ESPWiFi/Processing/MPUOSCTeapot/MPUOSCTeapot.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6_ESPWiFi/Processing/MPUOSCTeapot/MPUOSCTeapot.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6_Ethernet/MPU6050_DMP6_Ethernet.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_DMP6_Ethernet/MPU6050_DMP6_Ethernet.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_offset_calibration/MPU6050_offset_calibration.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_raw/MPU6050_raw.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/examples/MPU6050_raw/MPU6050_raw.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/keywords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/keywords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/library.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/library.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/I2Cdev.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/I2Cdev.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/I2Cdev.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/I2Cdev.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050_6Axis_MotionApps20.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050_6Axis_MotionApps20.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050_9Axis_MotionApps41.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/MPU6050_9Axis_MotionApps41.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/helper_3dmath.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/lib/MPU6050/src/helper_3dmath.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/platformio.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/platformio.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESP32-IMU/test/README" beforeDir="false" afterPath="$PROJECT_DIR$/../ESP32-IMU/test/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ESP32-U8G2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ROS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/.github/stale.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/.github/stale.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/.github/workflows/version.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/.github/workflows/version.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/BoundlessCommand/BoundlessCommand.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/BoundlessCommand/BoundlessCommand.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/ESP8266WebCLI/ESP8266WebCLI.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/ESP8266WebCLI/ESP8266WebCLI.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/HelpCommand/HelpCommand.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/HelpCommand/HelpCommand.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/Ping/Ping.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/Ping/Ping.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/PingWithArguments/PingWithArguments.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/PingWithArguments/PingWithArguments.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/PingWithCallbacks/PingWithCallbacks.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/PingWithCallbacks/PingWithCallbacks.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/PingWithTemplates/PingWithTemplates.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/PingWithTemplates/PingWithTemplates.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/SingleArgumentCommand/SingleArgumentCommand.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/SingleArgumentCommand/SingleArgumentCommand.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/examples/VideoExample/VideoExample.ino" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/examples/VideoExample/VideoExample.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/keywords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/keywords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/library.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/library.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/library.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/library.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/Argument.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/Argument.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/Argument.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/Argument.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/Command.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/Command.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/Command.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/Command.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/CommandError.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/CommandError.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/CommandError.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/CommandError.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/SimpleCLI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/SimpleCLI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/SimpleCLI.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/SimpleCLI.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/StringCLI.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/StringCLI.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/arg.c" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/arg.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/arg.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/arg.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/arg_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/arg_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd.c" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_error.c" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_error.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_error.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_error.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_error_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_error_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/cmd_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/comparator.c" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/comparator.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/comparator.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/comparator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/parser.c" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/parser.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/parser.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/parser.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SimpleCLI/src/c/parser_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SimpleCLI/src/c/parser_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/FPS/FPS.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/FontUsage/FontUsage.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/GraphicsTest/GraphicsTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/HelloWorld/HelloWorld.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/IconMenu/IconMenu.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/PrintUTF8/PrintUTF8.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/SelectionList/SelectionList.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/Shennong/Shennong.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/U8g2Logo/U8g2Logo.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/UpdateArea/UpdateArea.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/full_buffer/Weather/Weather.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/games/LittleRookChess/LittleRookChess.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/games/SpaceTrash/SpaceTrash.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/A2Printer/A2Printer.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Chinese/Chinese.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/ClipWindow/ClipWindow.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Clock/Clock.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/ContrastTest/ContrastTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Devanagari/Devanagari.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/DirectAccess/DirectAccess.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/DrawLog/DrawLog.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/ExtUTF8/ExtUTF8.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/FPS/FPS.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/FlipMode/FlipMode.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/GraphicsTest/GraphicsTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/HelloWorld/HelloWorld.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/IconMenu/IconMenu.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Japanese/Japanese.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Korean/Korean.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/PowerSaveTest/PowerSaveTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/PrintHelloWorld/PrintHelloWorld.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/PrintProgmem/PrintProgmem.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/PrintUTF8/PrintUTF8.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/ScrollingText/ScrollingText.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/SelectionList/SelectionList.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Serial/Serial.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Shennong/Shennong.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/StateBufferLoop/StateBufferLoop.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Terminal/Terminal.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/U8g2Logo/U8g2Logo.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/UpdatePartly/UpdatePartly.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/Weather/Weather.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/XBM/XBM.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/page_buffer/XORTest/XORTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/16x16Font/16x16Font.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/ArduboyTest/ArduboyTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/FlipMode/FlipMode.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/GraphicsTest/GraphicsTest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/HelloWorld/HelloWorld.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/MessageBox/MessageBox.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/examples/u8x8/Terminal/Terminal.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/extras/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/library.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/U8x8lib.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/U8x8lib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_bitmap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_box.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_buffer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_circle.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_cleardisplay.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_d_memory.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_d_setup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_font.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_hvline.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_input_value.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_intersection.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_kerning.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_line.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_ll_hvline.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_message.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_polygon.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_selection_list.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8g2_setup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8log.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8log_u8g2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8log_u8x8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_8x8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_byte.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_cad.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_capture.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_a2printer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_il3820_296x128.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ist3020.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ist7920.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ks0108.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_lc7981.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ld7032_60x32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ls013b7dh03.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_max7219.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_pcd8544_84x48.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_pcf8812.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_pcf8814_hx1230.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_s1d15721.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_s1d15e06.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sbn1661.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sed1330.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sh1106_64x32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sh1106_72x40.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sh1107.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sh1108.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_sh1122.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1305.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_128x32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_128x64_noname.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_128x80_noname.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_2040x16.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_48x64.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_64x32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_64x48.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_72x40.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1306_96x16.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1309.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1316.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1317.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1318.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1320.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1322.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1325.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1326.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1327.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1329.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1606_172x72.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_ssd1607_200x200.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7511.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st75256.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7528.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st75320.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7565.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7567.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7571.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7586s_erc240160.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7586s_s028hn118a.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7586s_ymc240160.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7588.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_st7920.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_stdio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_t6963.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1601.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1604.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1608.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1610.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1611.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1617.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1638.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1701_dogs102.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_d_uc1701_mini12864.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_debounce.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_display.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_input_value.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_message.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_selection_list.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_setup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_string.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_u16toa.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/U8g2/src/clib/u8x8_u8toa.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platformio.ini" beforeDir="false" afterPath="$PROJECT_DIR$/platformio.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/README" beforeDir="false" afterPath="$PROJECT_DIR$/test/README" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:pico32" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="29jUqgX2RLXcKYB3mTlknbRAMEf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "clion.platformio.config"
+  }
+}]]></component>
+  <component name="RunManager" selected="PlatformIO.PlatformIO 上传">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z_DUMMY_TARGET" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ESP32-OLED" TARGET_NAME="Z_DUMMY_TARGET" CONFIG_NAME="pico32" RUN_TARGET_PROJECT_NAME="ESP32-OLED" RUN_TARGET_NAME="Z_DUMMY_TARGET">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformIO 上传" type="platformio" factoryName="PlatformIO Upload" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ESP32-OLED" TARGET_NAME="Production" CONFIG_NAME="pico32" RUN_TARGET_PROJECT_NAME="ESP32-OLED" RUN_TARGET_NAME="Production">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformIO 调试" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ESP32-OLED" TARGET_NAME="Debug" CONFIG_NAME="pico32" RUN_TARGET_PROJECT_NAME="ESP32-OLED" RUN_TARGET_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.Z_DUMMY_TARGET" />
+      <item itemvalue="PlatformIO.PlatformIO 上传" />
+      <item itemvalue="PlatformIO.PlatformIO 调试" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cbb50a65-d3ec-475f-8880-ed7d82d55045" name="变更" comment="" />
+      <created>1653626180597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653626180597</updated>
+      <workItem from="1653626181896" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

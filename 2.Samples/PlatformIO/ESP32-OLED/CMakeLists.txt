@@ -14,6 +14,8 @@ project("ESP32-OLED" C CXX)
 
 include(CMakeListsPrivate.txt)
 
+include_directories("./lib/U8g2_Arduino-2.32.15/src")
+
 if(EXISTS ${CMAKE_CURRENT_SOURCE_DIR}/CMakeListsUser.txt)
 include(CMakeListsUser.txt)
 endif()
@@ -26,7 +28,7 @@ add_custom_target(
 
 add_custom_target(
     Debug ALL
-    COMMAND platformio -c clion run --target debug "$<$<NOT:$<CONFIG:All>>:-e${CMAKE_BUILD_TYPE}>"
+    COMMAND platformio -c clion debug "$<$<NOT:$<CONFIG:All>>:-e${CMAKE_BUILD_TYPE}>"
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
 

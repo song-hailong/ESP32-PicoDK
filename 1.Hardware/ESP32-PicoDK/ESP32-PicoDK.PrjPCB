@@ -82,10 +82,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTRBEYFQ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ESP32-PicoDK\Design Rule Check - ESP32-PicoDK.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
